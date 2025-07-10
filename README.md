@@ -51,13 +51,21 @@ A simple, interactive C++ console game where the user plays Rock, Paper, Scissor
 
 ## 🧪 Sample Output
 Enter the choice you want to select:
+
 rock | paper | scissors:
+
 paper
+
 Computer Choose: scissors
+
 Player Choose: paper
+
 You picked: paper
+
 Computer Picked: scissors
+
 Computer wins the game
 
 Do you wish to play the game again(y|n): n
+
 GAME OVER!
