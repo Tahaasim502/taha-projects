@@ -1,9 +1,8 @@
 # 🏏Cricket Game Simulator
 Step onto the digital pitch and feel the adrenaline rush of cricket like never before! ⚡
-
 This fun and interactive C++ project brings the excitement of a cricket match right to your screen, packed with core gameplay mechanics and thrilling moments. Whether you're a die-hard cricket fan or a coding enthusiast ready to dive into game development, this simulator is your perfect pitch! 🌟
 ---
-##What’s inside?
+## What’s inside?
 🎲 Toss Simulation – Who will win the toss and choose to bat or bowl?
 
 🏏 Innings Gameplay – Play through overs, track runs, and manage wickets.
