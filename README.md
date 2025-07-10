@@ -20,7 +20,8 @@ This fun and interactive C++ project brings the excitement of a cricket match ri
 
 ---
 
-##Tech Highlights:
+## Tech Highlights:
+
 🧠 Dynamic Memory Allocation – Efficiently manage player data during the game.
 
 📚 Arrays of Structures – Organize complex player and team info easily.
