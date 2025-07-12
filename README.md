@@ -9,7 +9,8 @@ Welcome to **tahas-project**, a collection of programming projects and challenge
 This repository includes the following projects (each in its own subfolder):
 
 1. **Cricket game simulator** — A program that mimics basic match mechanics, including overs, runs, wickets, and player turns.
-2. **Rock, paper, scissors** —  A fun and interactive Rock-Paper-Scissors game in C++ where you challenge the computer and instantly see who wins each round!   
+2. **Rock, paper, scissors** —  A fun and interactive Rock-Paper-Scissors game in C++ where you challenge the computer and instantly see who wins each round!
+3. **Travel Expense Tracker** — A razor-sharp C++ expense tracker that automates business travel reimbursements down to the penny—because no one should overpay for a 6 a.m. airport coffee.  
 
 > *And more... Each project folder contains a detailed README describing the program, features, how to compile and run it.*
 
