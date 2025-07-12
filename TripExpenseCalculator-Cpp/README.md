@@ -1,6 +1,8 @@
-## 🚗 Trip Expense Calculator – C++ Console Application
+# 🚗 Trip Expense Calculator – C++ Console Application
+
 An interactive C++ program that helps users calculate travel expenses for business trips with built-in validations and detailed expense breakdowns. From parking fees to meals, this console-based tool captures real-world reimbursement scenarios, making it both practical and a solid beginner-level portfolio project.
 ---
+
 ##📌 Key Features:
 - ✅ Full trip summary with departure/arrival time input
 
