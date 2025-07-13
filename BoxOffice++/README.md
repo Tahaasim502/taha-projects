@@ -44,7 +44,7 @@ This project showcases how to build a simple but practical booking system from s
 
 ---
 
-## Demo Snap Shot
+## 📸 Demo Snap Shot
 
 <img width="558" height="571" alt="image" src="https://github.com/user-attachments/assets/2c2effac-3e06-4ede-94e5-f7344504a714" />
 
@@ -52,6 +52,7 @@ This project showcases how to build a simple but practical booking system from s
 
 <img width="783" height="448" alt="image" src="https://github.com/user-attachments/assets/62617a25-60e0-4c66-a381-54b1dc8c71a3" />
 
+<img width="387" height="302" alt="image" src="https://github.com/user-attachments/assets/9b176742-1219-4b53-816f-94b492dba7a2" />
 
 
 
