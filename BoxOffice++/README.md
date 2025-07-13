@@ -48,3 +48,10 @@ This project showcases how to build a simple but practical booking system from s
 
 <img width="558" height="571" alt="image" src="https://github.com/user-attachments/assets/2c2effac-3e06-4ede-94e5-f7344504a714" />
 
+<img width="451" height="297" alt="image" src="https://github.com/user-attachments/assets/4b675fcc-e7a4-44ef-978f-7d049fd8299c" />
+
+<img width="783" height="448" alt="image" src="https://github.com/user-attachments/assets/62617a25-60e0-4c66-a381-54b1dc8c71a3" />
+
+
+
+
