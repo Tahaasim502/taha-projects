@@ -34,6 +34,7 @@ This project demonstrates strong command over arrays, input validation, loops, a
 - Console I/O  
 - Basic data structures (arrays)  
 - Input validation & formatting (iomanip)
+- Implemented color-code output using #define and ANSI codes
 
 ---
 
