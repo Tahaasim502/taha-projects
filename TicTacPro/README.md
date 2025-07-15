@@ -1,6 +1,7 @@
 ## 🎮 Tic Tac Toe Game in C++
 
 A classic Tic Tac Toe game implemented in C++ where two players take turns to mark their moves on a 3x3 grid. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game!
+
 -----
 
 ## ✨ Features
@@ -10,6 +11,7 @@ A classic Tic Tac Toe game implemented in C++ where two players take turns to ma
 ✅ Input Validation – Ensures moves are within bounds and cells are not already taken.
 ✅ Win Detection – Checks for winning conditions after every move.
 ✅ Draw Handling – Declares a tie if the board is full with no winner.
+
 ----
 
 ## 🚀 How to Play
