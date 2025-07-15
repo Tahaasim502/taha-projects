@@ -7,9 +7,13 @@ A classic Tic Tac Toe game implemented in C++ where two players take turns to ma
 ## ✨ Features
 
 ✅ Randomized Starting Player – The game randomly selects whether Player 1 (X) or Player 2 (O) goes first.
+
 ✅ Interactive Game Board – Displays the board with row and column indices for easy moves.
+
 ✅ Input Validation – Ensures moves are within bounds and cells are not already taken.
+
 ✅ Win Detection – Checks for winning conditions after every move.
+
 ✅ Draw Handling – Declares a tie if the board is full with no winner.
 
 ----
