@@ -105,7 +105,8 @@ void seatingPlan()
     };
     int rowNum = 0, seatNum = 0;
     char again, choice;
-    int total_price = 0, seat_sold = 0;  
+    double total_price = 0
+    int seat_sold = 0;  
     double price_array[row];
 
     displaySeating(seating);
@@ -115,15 +116,17 @@ void seatingPlan()
 
     do
     {
-        cout << "Enter the row number(0-14) and seat number(0-29) you would like to select: ";
-        cin >> rowNum >> seatNum;
+        cout << "Enter the row number(0-14): ";
+        cin >> rowNum;
+        cout << "Enter the seat number(0-29): ";
+        cin >> seatNum;
         while(rowNum < 0 || rowNum >= row || seatNum < 0 || seatNum >= columnseating[rowNum][seatNum] == '*')
         {
             cout << YELLOW << "Invalid or already taken. Try again: " << RESET;
             cin >> rowNum >> seatNum;
         }
         seating[rowNum][seatNum] = '*';
-        cout << GREEN << "Seat booked sucessfully!" << RESET << endl;
+        cout << GREEN << "Seat booked successfully!" << RESET << endl;
         displaySeating(seating);
         cout << "Do you wish to book another seat? (Y|N): ";
         cin >> again;
