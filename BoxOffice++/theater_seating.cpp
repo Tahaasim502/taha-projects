@@ -2,6 +2,9 @@
 #include<iomanip>
 using namespace std;
 
+// # - Available (Green)
+// * - Taken (Red)
+
 #define RESET "\033[0m"
 #define GREEN  "\033[32m"
 #define RED  "\033[31m"
@@ -23,7 +26,7 @@ void seatPrice(double price[])
         cin >> price[i];
         while(price[i] < 0)
         {
-            cout << YELLOW << "Invalid. Please enter a non-ngeative price for Row: " << i + 1 << RESET <<  " : $";
+            cout << YELLOW << "Invalid. Please enter a non-negative price for Row: " << i + 1 << RESET <<  " : $";
             cin >> price[i];
         }
     }
@@ -114,7 +117,7 @@ void seatingPlan()
     {
         cout << "Enter the row number(0-14) and seat number(0-29) you would like to select: ";
         cin >> rowNum >> seatNum;
-        while(seating[rowNum][seatNum] == '*' || rowNum < 0 || rowNum >= row || seatNum < 0 || seatNum >= column)
+        while(rowNum < 0 || rowNum >= row || seatNum < 0 || seatNum >= columnseating[rowNum][seatNum] == '*')
         {
             cout << YELLOW << "Invalid or already taken. Try again: " << RESET;
             cin >> rowNum >> seatNum;
