@@ -1,4 +1,4 @@
-## 🔐 VaultGuard — Beginner Python Password Strength Checker  
+## 🔐 Passfort — Beginner Python Password Strength Checker  
 A command-line Python tool that checks password strength based on length, digits, uppercase letters, and special characters.  
 Built to practice conditionals, dictionaries, loops, and input validation.
 
