@@ -12,7 +12,7 @@ This repository includes the following projects (each in its own subfolder):
 2. **Rock, paper, scissors** —  A fun and interactive Rock-Paper-Scissors game in C++ where you challenge the computer and instantly see who wins each round!
 3. **Trip Expense Calculator** - Track every penny of your business trip with this smart C++ expense calculator — from parking to meals, it’s got you covered!
 4. **BoxOffice++** - A sleek C++ console app that transforms seat booking into a real-time, interactive auditorium experience.
-5. **Tic Tac Toe C++** - A classic 2-player grid showdown with smart input handling, random turns, and real-time win detection!
+5. **TicTacPro** - A classic 2-player grid showdown with smart input handling, random turns, and real-time win detection!
 6. **taskcli** - A beginner- python friendly command-line To-Do app in Python that helps you manage tasks efficiently right from your terminal.
 7. **Passfort** -  A sleek Python CLI tool that instantly checks and guides you to create strong, secure passwords with real-time feedback!
 
