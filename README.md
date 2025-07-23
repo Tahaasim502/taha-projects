@@ -14,9 +14,8 @@ This repository includes the following projects (each in its own subfolder):
 4. **Trip Expense Calculator** - Track every penny of your business trip with this smart C++ expense calculator — from parking to meals, it’s got you covered!
 5. **BoxOffice++** - A sleek C++ console app that transforms seat booking into a real-time, interactive auditorium experience.
 6. **Tic Tac Toe C++** - A classic 2-player grid showdown with smart input handling, random turns, and real-time win detection!
-7. **Rock, Paper, Scissors C++** - Challenge the computer with randomized moves, input checks, and endless replay fun in this classic console showdown!
-8. **taskcli** - A beginner- python friendly command-line To-Do app in Python that helps you manage tasks efficiently right from your terminal.
-9. **Passfort** -  A sleek Python CLI tool that instantly checks and guides you to create strong, secure passwords with real-time feedback!
+7. **taskcli** - A beginner- python friendly command-line To-Do app in Python that helps you manage tasks efficiently right from your terminal.
+8. **Passfort** -  A sleek Python CLI tool that instantly checks and guides you to create strong, secure passwords with real-time feedback!
 
 > *And more... Each project folder contains a detailed README describing the program, features, how to compile and run it.*
 
