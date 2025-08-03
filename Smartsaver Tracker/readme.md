@@ -53,6 +53,7 @@ A simple C++ console-based application that simulates a savings account over a s
 📈 Enter the interest rate: 5
 
 ====Month 1 =====
+
 Enter deposit amount: $100
 
 Enter widthdrawal amount: $50
@@ -61,6 +62,7 @@ Interest earned this month 4.375
 
 
 ====Month 2 =====
+
 Enter deposit amount: $150
 
 Enter widthdrawal amount: $20
