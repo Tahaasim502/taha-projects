@@ -1,4 +1,4 @@
-#💼 Monthly Bank Account Simulator
+# 💼 Monthly Bank Account Simulator
 
 A simple C++ console-based application that simulates a savings account over a series of months. It tracks deposits, withdrawals, interest earned, and generates a final account summary.
 
@@ -70,8 +70,13 @@ Interest earned this month 4.9349
 
 
 ================= ACCOUNT SUMMARY =====================
+
 Final Balance     :$1189.31
+
 Total Interest    :$9.30989
+
 Total Deposit     :$250
+
 Total Widthdrawal :$70
+
 =========================================================
