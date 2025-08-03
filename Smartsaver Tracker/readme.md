@@ -4,7 +4,7 @@ A simple C++ console-based application that simulates a savings account over a s
 
 ---
 
-##🛠 Features
+## 🛠 Features
 
 - Takes user input for:
 
