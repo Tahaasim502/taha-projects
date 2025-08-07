@@ -16,6 +16,7 @@ This repository includes the following projects (each in its own subfolder):
 6. **taskcli** - A beginner- python friendly command-line To-Do app in Python that helps you manage tasks efficiently right from your terminal.
 7. **Passfort** -  A sleek Python CLI tool that instantly checks and guides you to create strong, secure passwords with real-time feedback!
 8. **Smartsaver Tracker** - Track deposits, withdrawals, and interest—all in your terminal. No overdrafts, just C++ magic!
+9. **PayGen** - Generate Detailed Employee Reports With Ease.
 > *And more... Each project folder contains a detailed README describing the program, features, how to compile and run it.*
 
 ---
