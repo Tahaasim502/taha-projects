@@ -1,0 +1,13 @@
+=======EMPLOYEES PAYROLL REPORT=======
+Employee ID: 102
+Gross Pay: $2500.00
+State Tax: $200.00
+Federal Tax: $20.00
+FICA Withholdings: $10.00
+
+Employee ID: 256
+Gross Pay: $156.00
+State Tax: $20.00
+Federal Tax: $20.00
+FICA Withholdings: $0.00
+

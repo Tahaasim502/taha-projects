@@ -1,0 +1,6 @@
+=======SUMMARY OF PAYROLL TOTALS =======
+Total Gross Pay: $2656.00
+Total State Tax: $220.00
+Total Federal Tax: $40.00
+Total FICA Withholdings: $10.00
+Total Net Pay: $2386.00
