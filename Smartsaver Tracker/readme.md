@@ -44,7 +44,7 @@ A simple C++ console-based application that simulates a savings account over a s
 
 ---
 
-#📸 Demo Snapshot:
+# 📸 Demo Snapshot:
 
 💼 How many months have passed since the opening of account?: 2
 
